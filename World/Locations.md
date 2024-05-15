@@ -21,6 +21,8 @@ Contains elevator shortcut back to [[#The Village]].
 # Assembly Line
 Long conveyer belt carrying robots and assembled parts towards the [[#Junk Heap]].
 Large crane arms work over belt and kill player if they come in contact
-
 # Derelict Channel
+Massive concrete cylinder (same design as [[#Junk Heap]])
+Criss-crossing beams and platforms allow for player climbing up and down.
+Contains elevator shortcut back to [[#Great Hall]].
 # Royal Womb

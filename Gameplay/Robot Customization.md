@@ -1,8 +1,12 @@
 # Parts
-- Sensor (head)
-- Left Arm
-- Right Arm
-- Legs
+## Sensors
+Do not have durability, will never break (must be swapped out by player)
+Player has 2 (can customize each eye)
+## Arms
+Have durability, will break if enough damage is received.
+Arms are not restricted to left or right, can be equipped in either.
+## Legs
+Do not have durability, will never break (must be swapped out by player)
 # Part Ideas
 ## Sensors
 - Basic Camera

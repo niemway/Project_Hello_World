@@ -1,0 +1,1 @@
+Players and enemies both share the same system of part customization, apart from the use of [[Gameplay/Mods|Mods]]. For more details about this system, see [[Robot Customization]].

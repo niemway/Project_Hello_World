@@ -1,3 +1,5 @@
 # [[Locations]]
 # [[NPCs]]
 # [[Lore]]
+# [[Enemies]]
+# [[Bosses]]
