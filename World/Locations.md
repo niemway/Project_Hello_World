@@ -30,3 +30,4 @@ Boss Fight: [[Bosses#Derelict Miner]].
 # Royal Womb
 Tall, bulbous chamber with a cord of flesh hanging from the ceiling.
 Boss Fight: [[Bosses#Great Serpent]] (1st loop) [[Bosses#The Creator]] (2nd loop)
+

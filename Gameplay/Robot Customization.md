@@ -17,6 +17,7 @@ Do not have durability, will never break (must be swapped out by player)
 - Apple Vision Pro (joke sensor, functionally same as basic camera)
 ## Arms
 - "Regular" arms
+### Arms with Abilities (6-10)
 - Gun arms
 	- Semi-auto and auto-fire versions
 - Laser cutter arm (maybe cut)
@@ -36,6 +37,7 @@ Do not have durability, will never break (must be swapped out by player)
 - Shield
 ## Legs (both)
 - generic legs (bad)
+### Legs with Abilities (4-5)
 - Fast legs
 - Slide legs
 	- faster when sliding than fast legs, but only in one direction
