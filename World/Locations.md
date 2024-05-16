@@ -10,6 +10,7 @@ Accessed through a long (one-way) fall down a tube at the end of [[#Suspended Ne
 Located beneath [[#Junk Heap]].
 Spiraling tunnel burrowed into derelict robots from the Heap.
 # Church of the Serpent
+![[Church_Of_The_Serpent.jpg]]
 Located in the very center of [[#The Depths]].
 [[NPCs#Fanatic]] sits on church steps, and gives cryptic warning not to "disturb the great serpent".
 # Junk Heap
