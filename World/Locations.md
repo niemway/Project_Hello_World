@@ -1,10 +1,9 @@
 # Great Hall
-
+![[Great_Hall 2.jpg]]
 # The Village
 
 # Suspended Network
 Network of suspended catwalks over the [[#Assembly Line]]
-
 
 # The Depths
 Accessed through a long (one-way) fall down a tube at the end of [[#Suspended Network]].
@@ -14,6 +13,7 @@ Spiraling tunnel burrowed into derelict robots from the Heap.
 Located in the very center of [[#The Depths]].
 [[NPCs#Fanatic]] sits on church steps, and gives cryptic warning not to "disturb the great serpent".
 # Junk Heap
+![[Junk_Heap.jpg]]
 Massive concrete cylinder filled with damaged / destroyed robots
 Assembly lines from the infinite factory continuously drop new robots into the heap
 [[NPCs#Old Giant]] sits against the wall, and gives fragmented information about distant history.
