@@ -35,6 +35,13 @@ Do not have durability, will never break (must be swapped out by player)
 	- Katana
 	- Hammer
 - Shield
+- Boxing Glove
+	- Glove shoots out, large knockback on enemy
+	- Designed to work in tandem with a ranged weapon
+- Fishing Rod
+	- Cast a hook out and grab an enemy
+	- Parallel to Boxing Glove but for melee attacks
+	- Enemy cannot attack when grappled (player can still act when grappled)
 ## Legs (both)
 - generic legs (bad)
 ### Legs with Abilities (4-5)
