@@ -53,4 +53,6 @@ Do not have durability, will never break (must be swapped out by player)
 	- Jump then hold space in midair
 - Legs with dash / dodge
 	- Tracer overwatch dash
-- 
+- Tank/Tread Legs
+	- Slower movement
+	- Increased health
