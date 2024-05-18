@@ -6,6 +6,13 @@ wip
 - Active
 - When used, consume one of your arms to regain core health
 - Could be found in [[Locations#Great Hall]] as part of tutorial.
+## Anti-Corrosive Alloy
+- Passive
+- Reduces incoming damage (~25%)
+## Scrubber
+- Active
+- When used, regain health
+- Has a cooldown (~15s)
 ## Ancient Core
 - Passive
 - Constant slight core health regeneration
