@@ -7,7 +7,7 @@ A basic structure of one of the bots is as follows:
 		- Arms (2)
 		- Legs
 - [[#Controller]]
-
+![[Robots_Concept.jpg]]
 # Core
 Every robot has a core. This is responsible for tracking position, core health and sending events to the arms. This is what must be destroyed for a robot to be considered dead. 
 # Parts

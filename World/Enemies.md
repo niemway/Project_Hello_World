@@ -4,3 +4,4 @@ This page is dedicated to all common / regular enemies. For a list of all bosses
 - Sword/melee with shield
 - Boxing Glove with ranged weapon
 - Sword/melee with Fishing Hook
+![[Robots_Concept.jpg]]
