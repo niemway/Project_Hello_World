@@ -1,5 +1,5 @@
-## Aesthetic
-## Functionality
+# Aesthetics
+# Functionality
 - Play button - Plays the game
 	- Should we include a separate New Game and Continue button?
 - Settings - Brings player to settings

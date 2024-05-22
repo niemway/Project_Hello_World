@@ -1,5 +1,10 @@
-## Aesthetics
-## Functionality
+# Aesthetics
+# Layout
+Concept pause menu
+![[Menus_Pause_Concept1.png]]
+![[Menus_Pause_Concept2.png]]
+
+# Functionality
 - Music - Should we stop the music, reduce the timescale of the music, or create a pause menu theme?
 - Resume button - Stops the game
 - Settings button - Adjust the settings (same functionality as Main Menu)
