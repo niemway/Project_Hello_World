@@ -42,6 +42,8 @@ Do not have durability, will never break (must be swapped out by player)
 	- Cast a hook out and grab an enemy
 	- Parallel to Boxing Glove but for melee attacks
 	- Enemy cannot attack when grappled (player can still act when grappled)
+- Brass Horn
+	- Doot doot
 ## Legs (both)
 - generic legs (bad)
 ### Legs with Abilities (4-5)
