@@ -5,9 +5,32 @@ Player has 2 (can customize each eye)
 ## Arms
 Have durability, will break if enough damage is received.
 Arms are not restricted to left or right, can be equipped in either.
+[[Arm - Basic]]
+### Melee Arms
+[[Arm - Katana]]
+[[Arm - Hammer]]
+### Ranged Arms
+[[Arm - Pistol]]
+[[Arm - Full Auto]]
+[[Arm - Shotgun]]
+[[Arm - Railgun]]
+[[Arm - Rocket]]
+### Special Arms
+[[Arm - Shield]]
+[[Arm - Fishhook]]
+[[Arm - Keycard]]
+[[Arm - Mining Laser]]
+
 ## Legs
 Do not have durability, will never break (must be swapped out by player)
-# Part Ideas
+[[Legs - Basic]]
+[[Legs - Fast]]
+[[Legs - Wheeled]]
+[[Legs - Tank Treads]]
+[[Legs - Jumper Legs]]
+[[Legs - Dash Boosters]]
+
+# ---- Part Ideas ----
 ## Sensors
 - Basic Camera
 - Hud (shows enemy health)
