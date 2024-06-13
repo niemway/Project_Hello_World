@@ -1,5 +1,5 @@
 # Parts
-## Sensors
+## Sensors -- Cut for scope (temporary)
 Do not have durability, will never break (must be swapped out by player)
 Player has 2 (can customize each eye)
 ## Arms
@@ -23,12 +23,16 @@ Arms are not restricted to left or right, can be equipped in either.
 
 ## Legs
 Do not have durability, will never break (must be swapped out by player)
+Currently all use the same model, will be differentiated by different materials
 [[Legs - Basic]]
 [[Legs - Fast]]
-[[Legs - Wheeled]]
-[[Legs - Tank Treads]]
 [[Legs - Jumper Legs]]
 [[Legs - Dash Boosters]]
+
+-- suspended
+[[Legs - Wheeled]]
+[[Legs - Tank Treads]]
+
 
 # ---- Part Ideas ----
 ## Sensors
